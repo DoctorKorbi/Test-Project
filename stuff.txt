@@ -1,5 +1,5 @@
 public int bumps = 10;
 public void jump()
 {
-System.out.println("jump");
+System.out.println("jump off the plane");
 }
