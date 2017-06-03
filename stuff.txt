@@ -1,5 +1,5 @@
 public int bumps = 10;
 public void jamp()
 {
-System.out.println("Andrew go home");
+System.out.println("Gary come home");
 }
