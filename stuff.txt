@@ -1,4 +1,4 @@
-public int tacos = 0;
+public int bumps = 10;
 public void jump()
 {
 System.out.println("jump");
